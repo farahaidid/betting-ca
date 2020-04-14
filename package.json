@@ -1,0 +1,17 @@
+{
+   "name": "betting-ca",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "admin": "cd admin && npm run serve",
+      "client": "cd client && npm run serve",
+      "server": "cd server && npm run dev"
+   },
+   "keywords": [],
+   "author": "RK Anik",
+   "license": "ISC",
+   "dependencies": {
+      "vue-toast-notification": "^0.2.0"
+   }
+}
